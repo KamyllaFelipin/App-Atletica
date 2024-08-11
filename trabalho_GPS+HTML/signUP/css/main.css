@@ -1,0 +1,314 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v13_2 {
+  width: 100%;
+  height: 1080px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v41_13 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v41_13.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v13_6 {
+  width: 309px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 267px;
+  left: 537px;
+  font-family: Aoboshi One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v13_11 {
+  width: 414px;
+  height: 64px;
+  background: rgba(0,20,201,1);
+  opacity: 1;
+  position: absolute;
+  top: 736px;
+  left: 753px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.v13_12 {
+  width: 193px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 736px;
+  left: 863px;
+  font-family: Aoboshi One;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v15_148 {
+  width: 180px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 402px;
+  left: 645px;
+  font-family: Abyssinica SIL;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v15_149 {
+  width: 846px;
+  height: 60px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 466px;
+  left: 537px;
+  border: 1px solid rgba(0,0,0,1);
+}
+.v15_150 {
+  width: 180px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 481px;
+  left: 645px;
+  font-family: Abyssinica SIL;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v15_151 {
+  width: 846px;
+  height: 60px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 624px;
+  left: 537px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v15_112 {
+  width: 180px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 639px;
+  left: 645px;
+  font-family: Abyssinica SIL;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v15_153 {
+  width: 846px;
+  height: 60px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 545px;
+  left: 537px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v15_154 {
+  width: 846px;
+  height: 60px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 387px;
+  left: 537px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v15_115 {
+  width: 44px;
+  height: 44px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 474px;
+  left: 560px;
+  overflow: hidden;
+}
+.v15_116 {
+  width: 14px;
+  height: 14px;
+  background: url("../images/v15_116.png");
+  opacity: 1;
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  border: 3.6666667461395264px solid rgba(0,0,0,1);
+}
+.v15_117 {
+  width: 36px;
+  height: 36px;
+  background: url("../images/v15_117.png");
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  border: 3.6666667461395264px solid rgba(0,0,0,1);
+}
+.v15_118 {
+  width: 64px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 560px;
+  left: 645px;
+  font-family: Abyssinica SIL;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v15_159 {
+  width: 44px;
+  height: 44px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 633px;
+  left: 558px;
+  overflow: hidden;
+}
+.v15_160 {
+  width: 33px;
+  height: 20px;
+  background: url("../images/v15_160.png");
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 5px;
+  border: 3.5px solid rgba(0,0,0,1);
+}
+.v15_161 {
+  width: 18px;
+  height: 16px;
+  background: url("../images/v15_161.png");
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 12px;
+  border: 3.5px solid rgba(0,0,0,1);
+}
+.v15_162 {
+  width: 44px;
+  height: 44px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 553px;
+  left: 560px;
+  overflow: hidden;
+}
+.v15_163 {
+  width: 33px;
+  height: 20px;
+  background: url("../images/v15_163.png");
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 5px;
+  border: 3.5px solid rgba(0,0,0,1);
+}
+.v15_164 {
+  width: 18px;
+  height: 16px;
+  background: url("../images/v15_164.png");
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 12px;
+  border: 3.5px solid rgba(0,0,0,1);
+}
+.v15_165 {
+  width: 44px;
+  height: 44px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 395px;
+  left: 558px;
+  overflow: hidden;
+}
+.v15_166 {
+  width: 29px;
+  height: 11px;
+  background: url("../images/v15_166.png");
+  opacity: 1;
+  position: absolute;
+  top: 27px;
+  left: 7px;
+  border: 4.7091064453125px solid rgba(0,0,0,1);
+}
+.v15_167 {
+  width: 14px;
+  height: 14px;
+  background: url("../images/v15_167.png");
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 14px;
+  border: 4.7091064453125px solid rgba(0,0,0,1);
+}
+.v15_128 {
+  width: 180px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 402px;
+  left: 645px;
+  font-family: Abyssinica SIL;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v13_28 {
+  width: 359px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 834px;
+  left: 781px;
+  font-family: Aoboshi One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
